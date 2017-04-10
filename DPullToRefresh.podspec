@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DPullToRefresh"
-  s.version      = "0.0.2"
+  s.version      = "0.0.4"
   s.summary      = "DPullToRefresh to ScrollView"
 
   # This description is used to generate tags and improve search results.
@@ -40,7 +40,7 @@ The default provides a style, of course, can also be customized.
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT (example)"
+  #s.license      = "MIT (example)"
   #s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
