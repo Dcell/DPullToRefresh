@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DPullToRefresh"
-  s.version      = "0.0.4"
+  s.version      = "0.0.6"
   s.summary      = "DPullToRefresh to ScrollView"
 
   # This description is used to generate tags and improve search results.

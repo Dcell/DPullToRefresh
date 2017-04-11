@@ -39,7 +39,6 @@
 }
 
 -(void)animator:(PullToRefreshState)state any:(_Nullable id)any{
-    NSLog(@"animator:%d ----- %@",state,any);
     switch (state) {
         case PullToRefreshState_initial:
             [self.indicatorView stopAnimating];
