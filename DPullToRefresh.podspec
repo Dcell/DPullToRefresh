@@ -17,7 +17,7 @@ A simple drop-down refresh that supports all subclasses of ScollerView.
 The default provides a style, of course, can also be customized.
                    DESC
   s.homepage     = "https://github.com/Dcell/DPullToRefresh"
-  s.author             = { "dingqili" => "" }
+  s.author             = "ding_qili"
 
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/Dcell/DPullToRefresh.git", :tag => "#{s.version}" }
