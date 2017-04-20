@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "DPullToRefresh"
-  s.version      = "0.0.7"
+  s.version      = "0.0.8"
   s.summary      = "DPullToRefresh to ScrollView"
 
   s.description  = <<-DESC
